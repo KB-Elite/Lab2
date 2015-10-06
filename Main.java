@@ -11,6 +11,7 @@ public class Main{
 			System.out.println("\tMENU:");
 			System.out.println("-1. Пример");
                         System.out.println("0. Завершить работу");
+                        System.out.println("8. Задание 8");
 			System.out.println("9. Задание 9");
 			System.out.println("10. Задание 10");
 
@@ -20,6 +21,8 @@ public class Main{
 					break;
                                 case 0: System.exit(0);
                                         break;
+				case 8:	new Task8();
+					break;
 				case 9:	new Task9();
 					break;
 				case 10:new Task10();
