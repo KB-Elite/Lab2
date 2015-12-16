@@ -1,9 +1,9 @@
-# Lab2
+﻿# Lab2
 This is Lab #2 for course "Spetialize Programing Language"
 
 for compile program type in terminal:
 
-	javac Main.java
+	javac Main1.java
 
 
 for run program type in terminal:
